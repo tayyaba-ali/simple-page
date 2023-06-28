@@ -36,7 +36,7 @@ body {
 	gap: 1rem;
 }
 footer {
-	margin-top: 1rem !important;
+	margin-top: 1.5rem !important;
 	background-color: black;
 	color: #37b2d1;
 	display: flex;
@@ -44,9 +44,7 @@ footer {
 	justify-content: center;
 }
 @media (max-width: 512px) {
-	.container {
-		margin: 1rem;
-	}
+	
 	.border {
 		flex: 3;
 	}
@@ -56,7 +54,7 @@ footer {
 }
 @media (max-width: 376px) {
 	.container {
-		margin: 0.3rem;
+		margin: 0rem 1rem;
 	}
 	.border {
 		flex: 2;

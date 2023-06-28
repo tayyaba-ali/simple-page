@@ -36,7 +36,9 @@ body {
 	gap: 1rem;
 }
 footer {
+    
 	margin-top: 1.5rem !important;
+    margin-bottom: 0px !important;
 	background-color: black;
 	color: #37b2d1;
 	display: flex;
